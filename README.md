@@ -13,8 +13,6 @@ root@hoangson15:~# <kbd>hobbies</kbd>
 -> Reading books
 -> Playing games
 
-root@mewthedev:~# █</samp></pre>
-
 ## 🚀 &nbsp;Contributions Count
 
 <picture>
