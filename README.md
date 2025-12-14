@@ -1,5 +1,11 @@
 
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/e7b7bae1-753d-497a-a8cc-ea6f45c290f7" />
+
+
+Hi 
+
 ## :space_invader: &nbsp;About Me
+
 
 <pre><samp>root@hoangson15:~# <kbd>md5 -s "Hello world"</kbd>
 MD5 ("Hello world") = 3e25960a79dbc69b674cd4ec67a72c62
